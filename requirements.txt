@@ -1,0 +1,7 @@
+manuscript-ocr @ git+https://github.com/konstantinkozhin/manuscript-ocr.git@1bc3b501d3f3124cc166613b279c463dadc3ef6d
+matplotlib>=3.8,<4.0
+pandas>=2.2,<3.0
+Pillow>=10.0,<12.0
+requests>=2.31,<3.0
+python-dotenv>=1.0,<2.0
+tqdm>=4.60,<5.0
